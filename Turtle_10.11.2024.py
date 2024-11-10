@@ -1,3 +1,8 @@
+'''
+Program ma za zadanie użyć żółwia by narysował obrazek
+'''
+
+
 import turtle
 
 t = turtle.Pen()
